@@ -1,6 +1,6 @@
 # Technocolab-Final-Project 😀
 
-![Technocolab-Final-Project](https://socialify.git.ci/kaustubhgupta/Technocolab-Final-Project/image?description=1&language=1&owner=1&pattern=Circuit%20Board&theme=Light)
+<!-- ![Technocolab-Final-Project](https://socialify.git.ci/kaustubhgupta/Technocolab-Final-Project/image?description=1&language=1&owner=1&pattern=Circuit%20Board&theme=Light) -->
 
 ## About 😁
 
@@ -14,7 +14,7 @@ Sure, here you go: [Music Genre Predict](http://music-genre-predict.herokuapp.co
 
 ## Preview 📺
 
-![](https://github.com/kaustubhgupta/Technocolab-Final-Project/blob/master/preview.PNG)
+<!-- ![](https://github.com/kaustubhgupta/Technocolab-Final-Project/blob/master/preview.PNG) -->
 
 
 ## Tech Stack 🏟
