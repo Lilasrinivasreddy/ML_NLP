@@ -14,7 +14,6 @@ Sure, here you go: [Music Genre Predict](http://music-genre-predict.herokuapp.co
 
 ## Preview 📺
 
-<!-- ![](https://github.com/kaustubhgupta/Technocolab-Final-Project/blob/master/preview.PNG) -->
 
 
 ## Tech Stack 🏟
